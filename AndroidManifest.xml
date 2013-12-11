@@ -1,0 +1,16 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.tossis.android.xposed.romaddons"
+	android:versionCode="1" android:versionName="0.1">
+
+	<uses-sdk android:minSdkVersion="16"
+	          android:targetSdkVersion="16" />
+
+	<application android:allowBackup="true" android:icon="@drawable/ic_launcher"
+		android:label="Xposed Rom Addons" android:theme="@style/AppTheme">
+
+		<!-- Required for XPosed Framework -->
+		<meta-data android:name="xposedmodule" android:value="true" />
+		<meta-data android:name="xposedminversion" android:value="2.1*" />
+		<meta-data android:name="xposeddescription" android:value="Collection of different missing mods for Touchwiz Roms on GT-N7000" />
+	</application>
+</manifest>
