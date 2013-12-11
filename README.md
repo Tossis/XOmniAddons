@@ -12,62 +12,62 @@ Feel free to use the code in you own project, but please give proper credit for 
 
 Here are my Credits for code/help I got to do this little project of mine.
 
-XDA - For Ideas and Help on my Android Devices
-rovo89 - For Xposed Framework and some Code from Xposed Modules
-OmniRom Team - For a great Rom on the Galaxy Note
-C3C076 - For GravityBox Xposed module and some Code
+- XDA - For Ideas and Help on my Android Devices
+- rovo89 - For Xposed Framework and some Code from Xposed Modules
+- OmniRom Team - For a great Rom on the Galaxy Note
+- C3C076 - For GravityBox Xposed module and some Code
 
 If someone is missing, please let me know
 
 =============================================================================================================
 
-Currently Available features:
+# Currently Available features:
 
 System:
-- Enable ALL rotation angles
-- Enable Lockscreen Rotation
+- [x] Enable ALL rotation angles
+- [X] Enable Lockscreen Rotation
 
 Keyboard:
-- Disable ongoing IME Switcher Notification
+- [X] Disable ongoing IME Switcher Notification
 
 =============================================================================================================
 
-TODOs:
+# TODOs:
 
-App:
-- Create XDA Thread
-- Give proper thanks ;)
-- Create Settings
-- Settings shall be integrated into Omni's Settings, App itself shall only display am Info text
+## App:
+- [ ] Create XDA Thread
+- [ ] Give proper thanks ;)
+- [ ] Create Settings
+- [ ] Settings shall be integrated into Omni's Settings, App itself shall only display am Info text
 
-System:
-- Disabling Auto Rotation locks to current orientation
-- Disable WakeOnHomeButton
-- Set System DPI
+## System:
+- [ ] Disabling Auto Rotation locks to current orientation
+- [ ] Disable WakeOnHomeButton
+- [ ] Set System DPI
 
-Statusbar:
-- Center Clock with custom Java Date format
-- Drawer Background Transparency
-- Possibility to hide Notifications (like in GravityBox)
+## Statusbar:
+- [ ] Center Clock with custom Java Date format
+- [ ] Drawer Background Transparency
+- [ ] Possibility to hide Notifications (like in GravityBox)
 
-Lockscreen:
-- Lockscreen Torch Toggle on HomeButton long press (should not require to keep button pressed but toggled)
-- Lockscreen hide EmergencyCall Button
+## Lockscreen:
+- [ ] Lockscreen Torch Toggle on HomeButton long press (should not require to keep button pressed but toggled)
+- [ ] Lockscreen hide EmergencyCall Button
 
-Media:
-- Invert Volume buttons depending on rotation
-- Long press volume buttons for media skip track
+## Media:
+- [ ] Invert Volume buttons depending on rotation
+- [ ] Long press volume buttons for media skip track
 
-Keyboard:
-- Select AOSP Keyboard Style (and DPI)
+## Keyboard:
+- [ ] Select AOSP Keyboard Style (and DPI)
 
-Camera:
-- Allow saving to external SD
+## Camera:
+- [ ] Allow saving to external SD
 
-QuickSettings:
-- Select Tiles to display
-- Add missing Tiles
+## QuickSettings:
+- [ ] Select Tiles to display
+- [ ] Add missing Tiles
 
 ==============================================================================================================
 
-NOTES:
+# NOTES:
